@@ -1,11 +1,7 @@
 # MyArray — Search & Sorting Project
 
 Implements:
-- Linear Search
-- Binary Search (iterative + recursive)
 - Bubble Sort
-- Insertion Sort
-- Merge Sort
 - Quick Sort
 
 The program:
@@ -15,3 +11,6 @@ The program:
 - Measures runtime (nanoseconds) for each search/sort on the **same data**.
 
 ## File layout
+src/MyArray.java
+README.md
+
