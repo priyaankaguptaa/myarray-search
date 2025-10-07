@@ -1,9 +1,17 @@
-# MyArray Search Project
+# MyArray — Search & Sorting Project
 
-Java class implementing:
-- Linear Search  
+Implements:
+- Linear Search
 - Binary Search (iterative + recursive)
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
 
-It measures the time taken by each algorithm and prints results.
+The program:
+- Builds an ordered array or a random array (constructor overloads).
+- Prints the array (for small sizes).
+- Sorts **copies** of the array so the original isn’t modified.
+- Measures runtime (nanoseconds) for each search/sort on the **same data**.
 
-**Folder structure:**
+## File layout
